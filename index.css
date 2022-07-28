@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+}
+
+
+.heading {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.automate {
+  color: black;
+  margin: 60px, 100px;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: bold;
+}
+
+.store {
+  color: #5553b7;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+.buttons {
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+.tryforfree {
+  padding: 20px;
+  font-weight: bolder;
+}
+.Bookademo {
+  padding: 20px;
+  color: #5553b7;
+  font-weight: bolder;
+}
+
+.button1 {
+  color: white;
+  text-align: center;
+  border-radius: 25px;
+  margin: 15px;
+  height: 36px;
+  background-color: #2dd35c;
+  border: 0;
+  cursor: pointer;
+}
+.button2 {
+  text-align: center;
+  border-radius: 25px;
+  height: 36px;
+  border-color: #5553b7;
+  cursor: pointer;
+}
+.green {
+  border-radius: 300px 0px 0px 30px;
+  float: right;
+  border: rgb(180, 73, 192) solid;
+  background-color: #5553b7;
+  z-index: -1;
+  margin-left: 0px;
+  margin-top: 70px;
+  padding: 20px;
+  width: 50%;
+  height: 150px;
+  margin-right: 0px;
+  opacity: 0.4;
+}
+.blue {
+  border-radius: 0px 500px 30px 0px;
+  border: rgb(73, 192, 111) solid;
+  z-index: -2;
+  margin-left: -1px;
+  margin-top: 200px;
+  padding: 50px;
+  width: 70%;
+  height: 60%;
+}
